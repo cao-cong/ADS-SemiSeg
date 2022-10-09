@@ -1,3 +1,11 @@
 # ADS-SemiSeg
 Adversarial Dual-Student with Differentiable Spatial Warping for Semi-Supervised Semantic Segmentation. TCSVT 2022
-This repository contains official implementation of Adversarial Dual-Student with Differentiable Spatial Warping for Semi-Supervised Semantic Segmentation in TCSVT 2022, by Cong Cao, Tianwei Lin, Dongliang He, Fu Li, Huanjing Yue, Jingyu Yang, and Errui Ding.
+This repository contains official implementation of Adversarial Dual-Student with Differentiable Spatial Warping for Semi-Supervised Semantic Segmentation in TCSVT 2022, by Cong Cao, Tianwei Lin, Dongliang He, Fu Li, Huanjing Yue, Jingyu Yang, and Errui Ding. [arxiv] (https://arxiv.org/abs/2203.02792)
+
+## Code
+
+### Dependencies
+
+### Test
+
+### Train
