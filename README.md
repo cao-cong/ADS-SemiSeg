@@ -5,6 +5,9 @@ This repository contains official implementation of Adversarial Dual-Student wit
 
 ### Dependencies
 
+- Python >= 3.5
+- Pytorch >= 1.1
+
 ### Test
 
 ### Train
