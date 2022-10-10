@@ -15,4 +15,8 @@ This repository contains official implementation of Adversarial Dual-Student wit
 
 ### Test
 
+You can download pretrained weights from [here](https://drive.google.com/drive/folders/1Ch9bUbqToN2hisl3afnCW32qhP12p9SB?usp=sharing) and run:
+```
+bash run_scripts/test_VOC2012.sh
+```
 ### Train
