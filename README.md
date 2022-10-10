@@ -8,10 +8,11 @@ This repository contains official implementation of Adversarial Dual-Student wit
 
 ## Code
 
-### Dependencies
+### Environment
 
 - Python >= 3.5
 - Pytorch >= 1.1
+- NVIDIA Tesla V100
 
 ### Test
 
@@ -20,3 +21,17 @@ You can download pretrained weights from [here](https://drive.google.com/drive/f
 bash run_scripts/test_VOC2012.sh
 ```
 ### Train
+
+Train baseline:
+```
+bash run_scripts/train_baseline_VOC2012.sh
+```
+Train Mean-Teacher with DGW augmentation:
+```
+bash run_scripts/train_MT_DGW_VOC2012.sh
+```
+Train ADS with DGW augmentation:
+```
+bash run_scripts/train_ADS_DGW_VOC2012.sh
+```
+
