@@ -35,3 +35,19 @@ Train ADS with DGW augmentation:
 bash run_scripts/train_ADS_DGW_VOC2012.sh
 ```
 
+## Citation
+
+If you find our paper or code helpful in your research or work, please cite our paper:
+```
+@article{cao2022adversarial,
+  title={Adversarial dual-student with differentiable spatial warping for semi-supervised semantic segmentation},
+  author={Cao, Cong and Lin, Tianwei and He, Dongliang and Li, Fu and Yue, Huanjing and Yang, Jingyu and Ding, Errui},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  volume={33},
+  number={2},
+  pages={793--803},
+  year={2022},
+  publisher={IEEE}
+}
+```
+
